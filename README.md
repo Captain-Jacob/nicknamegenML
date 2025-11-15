@@ -2,7 +2,7 @@
 This project is a character-level LSTM (CharLSTM) that suggests new creative names,
 based on a scoring system and several seed datasets.  
 It is good at generating fresh, fantasy-style names, but it is still an experiment
-— so don’t expect perfect results every time.
+so don’t expect perfect results every time.
 
 ---
 
